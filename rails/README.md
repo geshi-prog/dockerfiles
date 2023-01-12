@@ -20,3 +20,5 @@ root@6c4ee3be843d:~/work/hello# bundle
 root@6c4ee3be843d:~/work/hello# rails server -b 0.0.0.0
 ```
 
+以上のコマンドを実行した後に http://127.0.0.1:3000/ に移動すると下記の様にrailsアプリが立ち上がっているかと思います。
+![image](https://user-images.githubusercontent.com/66429160/212195676-7de2f507-5368-45f0-8f79-a6af2c5e1569.png)
