@@ -9,3 +9,10 @@ Dockerfile管理用のリポジトリ
 * ディレクトリ名・・・何が目的のDockerfileかを分かりやすく記述する
 * README.md・・・目的等を記述する
 * Dockerfile
+
+## Dockerfileからイメージを作成するまで
+
+```shell
+docker image build --tag <イメージ名> <dockerfileのあるディレクトリのpath>
+```
+
