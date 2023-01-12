@@ -1,4 +1,4 @@
-FROM ubuntu_japanese:v1
+FROM ubuntu_japanese
 
 # インストールに必要な物をインストール
 RUN apt install -y \
