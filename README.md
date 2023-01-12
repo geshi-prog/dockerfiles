@@ -15,5 +15,3 @@ Dockerfile管理用のリポジトリ
 ```shell
 docker image build --tag <イメージ名> <dockerfileのあるディレクトリのpath>
 ```
-
-自由にコピーするなりしてお使いください。
