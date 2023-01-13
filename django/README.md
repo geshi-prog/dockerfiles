@@ -23,3 +23,4 @@ root@6c4ee3be843d:~/work/hello# python manage.py runserver 0.0.0.0:8000 --settin
 ```
 
 以上のコマンドを実行した後に http://127.0.0.1:8000/ に移動すると下記の様にdjangoアプリが立ち上がっているかと思います。
+![image](https://user-images.githubusercontent.com/66429160/212339462-8ba8351f-c51c-4130-a362-d1b8cfdb5e95.png)
