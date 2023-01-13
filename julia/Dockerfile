@@ -1,4 +1,4 @@
-FROM ubuntu_japanese:v1
+FROM ubuntu_japanese
 
 # juliaのバージョン(https://julialang.org/downloads/ からバージョンは確認する)
 ARG julia_parent_version="1.8"
